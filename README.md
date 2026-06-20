@@ -26,4 +26,4 @@ https://youtube.com/..... [請貼上你的YouTube影片連結]
 - `cleaned_data.csv`: The cleaned and recoded dataset used for regression. / 經過清理與重新編碼，用於迴歸分析的資料集。
 - `regression_results.csv`: Summary table of the OLS regression metrics. / OLS 迴歸分析結果的摘要數據表。
 - `scheme1_fig*.png`: Generated visualizations (bar chart, line chart, radar chart, slopegraph). / 程式產出的各項深度視覺化圖表。
-- `[Your_Summary_File].pdf`: One-page infographic summary. / 單頁視覺化總結圖表。
+- `Predicting Youth Violence Driven by School Fear.pdf`: One-page infographic summary. / 單頁視覺化總結圖表。
