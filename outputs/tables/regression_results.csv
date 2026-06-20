@@ -1,0 +1,4 @@
+Variable,Coefficient (Beta),Standard Error,P-value,95% CI Lower,95% CI Upper
+Safety_Days_Missed,0.2405,0.0104,0.0,0.2202,0.2609
+Is_Male,0.5356,0.0158,0.0,0.5046,0.5666
+Is_Sad,0.2844,0.0175,0.0,0.25,0.3187
