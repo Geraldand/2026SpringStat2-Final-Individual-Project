@@ -3,7 +3,7 @@ Name: [Jerry 張智源]
 Student ID: [112370234]
 
 ## Presentation Video
-https://youtube.com/..... [請貼上你的YouTube影片連結]
+https://www.youtube.com/watch?v=1I6g18q07X8
 
 ---
 
